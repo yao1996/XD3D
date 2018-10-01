@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sci-tec</string>
+
+    <string name="open_file">打开文件</string>
+</resources>
